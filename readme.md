@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="Documentation/funnel_cover.png" alt="E-commerce Conversion Funnel Analysis" width="100%">
+</p>
 # 🛒 E-commerce Conversion Funnel Analysis
 
 An end-to-end **E-commerce Conversion Funnel Analysis** project built to understand user behavior across the purchase journey, identify major drop-off points, measure conversion performance, and derive actionable business insights.
